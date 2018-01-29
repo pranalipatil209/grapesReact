@@ -9,6 +9,7 @@
   "homepage": "",
   "dependencies": {
     "grapesjs-blocks-basic": "https://github.com/artf/grapesjs-blocks-basic.git#^0.1.2",
-    "grapesjs-plugin-forms": "https://github.com/artf/grapesjs-plugin-forms.git#^0.3.4"
+    "grapesjs-plugin-forms": "https://github.com/artf/grapesjs-plugin-forms.git#^0.3.4",
+    "grapesjs": "^0.13.8"
   }
 }
